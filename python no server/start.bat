@@ -1,3 +1,3 @@
 color fc
 cd dist\little\
-little.exe
+'dark pink' snowie.exe
